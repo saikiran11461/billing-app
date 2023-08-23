@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# how to run the app
+# npm run start => it will start the app (http://localhost:3000)
+# we need to run the server for api render on dom
+# npm run server => it will run the server (http://localhost:8080)
+# now the app will run successfully
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
